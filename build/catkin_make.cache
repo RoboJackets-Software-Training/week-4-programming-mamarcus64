@@ -1,0 +1,2 @@
+week_4_exercises
+-DCATKIN_DEVEL_PREFIX=/home/vagrant/week-4-programming-mamarcus64/devel -DCMAKE_INSTALL_PREFIX=/home/vagrant/week-4-programming-mamarcus64/install -G Unix Makefiles
